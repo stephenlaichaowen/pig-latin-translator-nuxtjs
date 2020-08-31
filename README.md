@@ -1,6 +1,13 @@
-# pig-latin-app
+# Pig Latin Translator App
 
-> Pig Latin App
+> This project is a clone of [How to Build a Pig Latin Translator with Vanilla JavaScript](https://codepen.io/jamesqquick/pen/poygWmv), the original project is built with vanilla javascript, as a vuejs/nuxtjs developer I definitely built it in Vue way. 
+
+## Technology
+Frontend: Nuxtjs
+
+---
+
+This project involves the rules of add certain strings to the input text, making translating English to Latin easier...
 
 ## Build Setup
 
@@ -19,4 +26,11 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Deploy to Netlify
+
+```bash
+
+```
+
+## Reference
+[How to Build a Pig Latin Translator with Vanilla JavaScrip - James Q Quick](https://www.youtube.com/watch?v=twrPq2LfFAI)
