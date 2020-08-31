@@ -7,7 +7,7 @@ Frontend: Nuxtjs
 
 ---
 
-This project involves the rules of add certain strings to the input text, making translating English to Latin easier...
+This project involves the rules of adding certain strings to the input text, making translating English to Latin easier...
 
 ## Build Setup
 
@@ -29,7 +29,9 @@ $ npm run generate
 ## Deploy to Netlify
 
 ```bash
-
+# basic build settings
+Build command - npm run generate
+Publish directory - dist
 ```
 
 ## Reference
